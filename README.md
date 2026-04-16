@@ -1,7 +1,9 @@
 # Salut ! Moi c'est Nohan 👋
 
 ### Étudiant en ING1 à l'EPITA
-**Étudiant en cycle ingénieur passionné par les défis techniques, j'ai acquis une solide maîtrise du C et de l'environnement Linux à travers des projets exigeants comme la réécriture d'un Shell. Curieux et doté d'un fort esprit logique grâce à ma formation en mathématiques en classe preparatoire, je souhaite m'investir dans un stage.**
+
+Étudiant en cycle ingénieur passionné par les défis techniques, j'ai acquis une solide maîtrise du C et de l'environnement Linux à travers des projets exigeants comme la réécriture d'un Shell. Curieux et doté d'un fort esprit logique grâce à ma formation en mathématiques en classe preparatoire, je souhaite m'investir dans un stage.
+
 ---
 
 ### 🛠️ Stack Technique
