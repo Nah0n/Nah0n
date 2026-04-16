@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Me contacter
-- **LinkedIn:** [linkedin.com/in/ton-profil](www.linkedin.com/in/nohan-barroche-156316270)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/nohan-barroche-156316270)
 - **Ecole:** [EPITA](https://www.epita.fr/)
 <!--
 **Nah0n/Nah0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
